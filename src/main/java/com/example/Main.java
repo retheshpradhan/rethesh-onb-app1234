@@ -52,7 +52,7 @@ public class Main {
 
   @RequestMapping("/")
   String index() {
-    return "index";
+    return "handson";
   }
 
   @RequestMapping("/hello")
